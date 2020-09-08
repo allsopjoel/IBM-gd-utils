@@ -1,6 +1,6 @@
 # IBM-gd-utils
 
-IBM Cloud Fonudray + gd-utils + Github Actions
+IBM Cloud Fonudray + gd-utils + Github Actions-x
 
 > **效果：用GitHub Actions全自动安装gd-utils机器人到IBM Cloud Fonudray容器内，并且每周五12点定时重启IBM CF**
 
